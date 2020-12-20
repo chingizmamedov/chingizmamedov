@@ -4,8 +4,8 @@
 
 ## I'm FrontEnd developer!
 
-- 🌱 I’m currently learning ReactJS and JavaScript
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m still learning ReactJS and JavaScript 🥰
+- 👯 I’m looking to collaborate with other content creators 🥳
 
 ### Connect with me:
 
